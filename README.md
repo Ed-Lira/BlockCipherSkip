@@ -10,8 +10,8 @@ position in the stream.
 In the example in main() AES Ciphers operating in CBF8/NoPadding mode are used.  
 Sample Output
 ---------
-  Without proper CFB skipping:  
+  Without proper skipping:  
 > Hello t��~�
   
-  Using CFBSkipper  
+  Using BlockCipherSkipper  
 > Hello World!
